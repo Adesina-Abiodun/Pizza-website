@@ -12,7 +12,7 @@ export const ProductsData = [
     img: product1,
     alt: 'Pizza',
     name: 'Supreme Pizza',
-    desc: 'sweet one',
+    desc: 'a townhall different from bala blu, bulaba...',
     price: '#5,000',
     button: 'Add to cart'
 },
@@ -20,18 +20,18 @@ export const ProductsData = [
 {
     img: product2,
     alt: 'Pizza',
-    name: 'Supreme Pizza',
-    desc: 'sweet one',
-    price: '#5,000',
+    name: 'Hawailian Paradise',
+    desc: 'broommm brommm broommm, our symbol',
+    price: '#7,000',
     button: 'Add to cart'
 },
 
 {
     img: product3,
     alt: 'Pizza',
-    name: 'Supreme Pizza',
-    desc: 'sweet one',
-    price: '#5,000',
+    name: 'Veggie Overload',
+    desc: 'cassava, agbado, ewa, garri....recruit 50million youths!',
+    price: '#8,500',
     button: 'Add to cart'
 },
 ]
@@ -43,7 +43,7 @@ export const ProductsDataTwo = [
       name: 'Doughlicious',
       desc:
         'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-      price: '$9.99',
+      price: '#7,500',
       button: 'Add to Cart'
     },
     {
@@ -52,7 +52,7 @@ export const ProductsDataTwo = [
       name: 'Caramel Wonder',
       desc:
         'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
-      price: '$12.99',
+      price: '#5,000',
       button: 'Add to Cart'
     },
     {
@@ -61,7 +61,7 @@ export const ProductsDataTwo = [
       name: 'Brownie Bunch',
       desc:
         'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-      price: '$9.99',
+      price: '#4,500',
       button: 'Add to Cart'
     }
   ];
