@@ -36,14 +36,14 @@ const Footer = () => {
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/briandesignz'
+                href='//www.twitter.com/adesinaabiodunp'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
               >
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
+              <SocialIconLink href='https://www.linkedin.com/in/adesina-abiodun-paul-b513bb143' target='_blank' aria-label='Linkedin'>
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
